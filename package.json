@@ -1,0 +1,27 @@
+{
+  "name": "Vue-SSR-Project",
+  "version": "1.0.0",
+  "description": "主要是编写一些服务端渲染的项目与产品",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rail-ZongZi/Vue-SSR-Project.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rail-ZongZi/Vue-SSR-Project/issues"
+  },
+  "homepage": "https://github.com/Rail-ZongZi/Vue-SSR-Project#readme",
+  "dependencies": {
+    "css-loader": "^3.2.1",
+    "vue": "^2.6.10",
+    "vue-loader": "^15.7.2",
+    "webpack": "^4.41.2",
+    "webpack-cli": "^3.3.10"
+  }
+}
