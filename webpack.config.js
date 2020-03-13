@@ -1,3 +1,4 @@
-module.exports = {
-  
+const config = {
 }
+
+module.exports = config;
